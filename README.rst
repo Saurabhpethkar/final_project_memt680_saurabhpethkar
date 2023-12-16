@@ -1,27 +1,27 @@
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
-    .. image:: https://api.cirrus-ci.com/github/Saurabhpethkar/homework-4-data-visualization.svg?branch=main
+    .. image:: https://api.cirrus-ci.com/github/Saurabhpethkar/final_project_memt680_saurabhpethkar.svg?branch=main
         :alt: Built Status
-        :target: https://cirrus-ci.com/github/Saurabhpethkar/homework-4-data-visualization
-    .. image:: https://readthedocs.org/projects/homework-4-data-visualization/badge/?version=latest
+        :target: https://cirrus-ci.com/github/Saurabhpethkar/final_project_memt680_saurabhpethkar
+    .. image:: https://readthedocs.org/projects/final_project_memt680_saurabhpethkar/badge/?version=latest
         :alt: ReadTheDocs
-        :target: https://homework-4-data-visualization.readthedocs.io/en/latest/
-    .. image:: https://img.shields.io/coveralls/github/Saurabhpethkar/homework-4-data-visualization/main.svg
+        :target: https://final_project_memt680_saurabhpethkar.readthedocs.io/en/latest/
+    .. image:: https://img.shields.io/coveralls/github/Saurabhpethkar/final_project_memt680_saurabhpethkar/main.svg
         :alt: Coveralls
-        :target: https://coveralls.io/github/Saurabhpethkar/homework-4-data-visualization?branch=main
-    .. image:: https://img.shields.io/pypi/v/homework-4-data-visualization.svg
+        :target: https://coveralls.io/github/Saurabhpethkar/final_project_memt680_saurabhpethkar?branch=main
+    .. image:: https://img.shields.io/pypi/v/final_project_memt680_saurabhpethkar.svg
         :alt: PyPI-Server
-        :target: https://pypi.org/project/homework-4-data-visualization/
-    .. image:: https://img.shields.io/conda/vn/conda-forge/homework-4-data-visualization.svg
+        :target: https://pypi.org/project/final_project_memt680_saurabhpethkar/
+    .. image:: https://img.shields.io/conda/vn/conda-forge/final_project_memt680_saurabhpethkar.svg
         :alt: Conda-Forge
-        :target: https://anaconda.org/conda-forge/homework-4-data-visualization
-    .. image:: https://pepy.tech/badge/homework-4-data-visualization/month
+        :target: https://anaconda.org/conda-forge/final_project_memt680_saurabhpethkar
+    .. image:: https://pepy.tech/badge/final_project_memt680_saurabhpethkar/month
         :alt: Monthly Downloads
-        :target: https://pepy.tech/project/homework-4-data-visualization
+        :target: https://pepy.tech/project/final_project_memt680_saurabhpethkar
     .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
         :alt: Twitter
-        :target: https://twitter.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Saurabhpethkar/homework-4-data-visualization
+        :target: https://twitter.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Saurabhpethkar/final_project_memt680_saurabhpethkar
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
